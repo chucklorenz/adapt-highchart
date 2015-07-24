@@ -1,0 +1,23 @@
+{
+  "name": "adapt-highchart",
+  "version": "0.1.1",
+  "description": "A highcharts component",
+  "main": "js/adapt-highchart.js",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chucklorenz/adapt-highchart.git"
+  },
+  "author": "Chuck Lorenz",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/chucklorenz/adapt-highchart/issues"
+  },
+  "devDependencies": {
+    "karma": "0.10",
+    "karma-mocha": "0.1.0",
+    "karma-expect": "1.1.0"
+  }
+}

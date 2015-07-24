@@ -1,0 +1,17 @@
+{
+    "name": "adapt-highchart",
+    "version": "0.1.1",
+    "homepage": "https://github.com/chucklorenz/adapt-highchart",
+    "authors": [
+        "Chuck Lorenz <chucklorenz@yahoo.com>"
+    ],
+    "displayName" : "highchart",
+    "component" : "highchart",
+    "description": "A highcharts component",
+    "main": "/js/adapt-highchart.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-component"
+    ],
+    "license": "GPLv3"
+}
